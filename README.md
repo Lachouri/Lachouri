@@ -12,5 +12,4 @@
 
 📫 You can reach me here : **https://blog.ludivineachouri.com/contact**
 
-Follow me on
-<a href="https://instagram.com/la.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="la.dev" height="30" width="40" /></a>
+Follow me on <a href="https://instagram.com/la.dev" target="blank">Instagram</a>
