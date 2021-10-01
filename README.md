@@ -12,7 +12,5 @@
 
 📫 You can reach me [here](https://blog.ludivineachouri.com/contact)
 
-Follow me on <a href="https://instagram.com/la.dev" target="blank">Instagram</a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lachouri&show_icons=true&locale=en&layout=compact" alt="lachouri" /></p>
+Follow me on <a href="https://instagram.com/la.dev" target="blank"><img  src="https://i.imgur.com/OWdUupI.png" width="24" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lachouri&show_icons=true&locale=en" alt="lachouri" /></p>
