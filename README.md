@@ -7,7 +7,7 @@
 
 <h2 align="left">Who am I ?</h1>
 
-My name is Ludivine and I am a French web developer currently working for [Le Chemin des Mûres](https://www.lechemindesmures.fr/).
+My name is Ludivine and I am a French Software Engineer.
 
 You can find my personal projects on my [portfolio](http://www.ludivineachouri.com/). I also regularly write articles on [my blog](https://blog.ludivineachouri.com/) 
 
