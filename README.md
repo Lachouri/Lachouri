@@ -9,7 +9,9 @@
 
 My name is Ludivine and I am a French Software Engineer.
 
-You can find my personal projects on my [portfolio](http://www.ludivineachouri.com/). I also regularly write articles on [my blog](https://blog.ludivineachouri.com/) 
+You can find my personal projects on my [portfolio](http://www.ludivineachouri.com/). 
+
+I also regularly write articles on [my blog](https://blog.ludivineachouri.com/), which you can also find on [Medium](https://medium.com/@la.dev) and [dev.to](https://dev.to/lachouri)
 
 Feel free to [contact me](https://blog.ludivineachouri.com/contact).
 
