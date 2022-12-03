@@ -1,5 +1,5 @@
 ![Profile banner](./assets/profile-banner.png)
-<p align="center"><a href="https://instagram.com/la.dev" target="blank" style="padding: 2px" > <img  src="https://i.imgur.com/OWdUupI.png" width="32" /></a> &nbsp;&nbsp; &nbsp;&nbsp;<a href="https://www.linkedin.com/in/ludivine-achouri/" target="blank" ><img  src="https://i.imgur.com/78apom3.png" width="32" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/ludivine-achouri/" target="blank" ><img  src="https://i.imgur.com/78apom3.png" width="32" /></a>
 
 
 
